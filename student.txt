@@ -1,0 +1,3 @@
+name : shilpa, Course : bba
+name : laxmi, Course : bca
+name : ramya, Course : bcom
